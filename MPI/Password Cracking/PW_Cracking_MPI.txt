@@ -1,0 +1,11 @@
+1690000 solutions explored
+3380000 solutions explored
+1690000 solutions explored
+1690000 solutions explored
+3380000 solutions explored
+1690000 solutions explored
+3380000 solutions explored
+3380000 solutions explored
+Time elapsed was 37157045036937ns or 37157.045036937s
+Time elapsed was 37157042251135ns or 37157.042251135s
+Time elapsed was 37157045850900ns or 37157.045850900s
