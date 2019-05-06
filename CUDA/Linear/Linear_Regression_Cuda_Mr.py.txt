@@ -1,0 +1,20 @@
+minimum m,c is 1.230000,28.630000 with error 10.113213
+Time elapsed was 476024993ns or 0.476024993s
+minimum m,c is 1.230000,28.630000 with error 10.113213
+Time elapsed was 455385981ns or 0.455385981s
+minimum m,c is 1.230000,28.630000 with error 10.113213
+Time elapsed was 453493378ns or 0.453493378s
+minimum m,c is 1.230000,28.630000 with error 10.113213
+Time elapsed was 482042240ns or 0.482042240s
+minimum m,c is 1.230000,28.630000 with error 10.113213
+Time elapsed was 494891792ns or 0.494891792s
+minimum m,c is 1.230000,28.630000 with error 10.113213
+Time elapsed was 490842643ns or 0.490842643s
+minimum m,c is 1.230000,28.630000 with error 10.113213
+Time elapsed was 597066394ns or 0.597066394s
+minimum m,c is 1.230000,28.630000 with error 10.113213
+Time elapsed was 502022681ns or 0.502022681s
+minimum m,c is 1.230000,28.630000 with error 10.113213
+Time elapsed was 469923716ns or 0.469923716s
+minimum m,c is 1.230000,28.630000 with error 10.113213
+Time elapsed was 448603342ns or 0.448603342s

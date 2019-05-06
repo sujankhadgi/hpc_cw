@@ -1,0 +1,10 @@
+Time elapsed was 68041778ns or 0.068041778s
+Time elapsed was 66455349ns or 0.066455349s
+Time elapsed was 65592998ns or 0.065592998s
+Time elapsed was 69845630ns or 0.069845630s
+Time elapsed was 65607322ns or 0.065607322s
+Time elapsed was 68326294ns or 0.068326294s
+Time elapsed was 65748840ns or 0.065748840s
+Time elapsed was 65587419ns or 0.065587419s
+Time elapsed was 76494010ns or 0.076494010s
+Time elapsed was 73504071ns or 0.073504071s
